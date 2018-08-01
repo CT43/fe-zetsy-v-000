@@ -39,7 +39,7 @@ a {
 }
 /*////////// Section Styles //////////*/
 
-header a {
+header {
   color: rgb(152,173,166);
   text-decoration: none;
 }
