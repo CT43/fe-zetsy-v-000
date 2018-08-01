@@ -34,6 +34,9 @@ font-size: 2em;
 color: rgb(111,127,122)
 }
 
+a {
+  text-decoration: none;
+}
 /*////////// Section Styles //////////*/
 
 header a {
@@ -42,5 +45,5 @@ header a {
 }
 
 #main-page img{
-  border: 2px rgb(152,173,166) solid;
+  border: 5px rgb(152,173,166) solid;
 }
