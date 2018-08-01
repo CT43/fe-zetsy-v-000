@@ -41,6 +41,6 @@ header a {
   text-decoration: none;
 }
 
-#main-page img{
-  border: 2px #fff solid;
+#main-page img {
+	border: 5px rgb(152,173,166) solid;
 }
